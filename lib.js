@@ -7,7 +7,7 @@ var dy = 20;
 var dr = 10;
 
 // 0: left
-// 1: up
+// 1:  up
 // 2: right
 // 3: down
 var direction;
