@@ -170,6 +170,6 @@ function drawsnake() {
 }
 
 function drawfood() {
-  ctx.fillStyle = "#FF0000";
+  ctx.fillStyle = "#00FFA5";
   circle(food.x+food.r, food.y+food.r, food.r);
 }
