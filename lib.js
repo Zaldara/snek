@@ -138,6 +138,9 @@ function movesnake() {
 
 function die() {
   if (id) {
+    
+    
+    //wut le fuk happened here
     clearInterval(id);
   }
 }
