@@ -27,8 +27,8 @@ function init() {
   createsnake();
   newfood();
 
-  direction = 1;
-  size = 2;
+  direction = 0;
+  size = 1;
 
   id = setInterval(step, 100);
 }
