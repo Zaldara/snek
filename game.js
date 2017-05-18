@@ -10,7 +10,7 @@ function step(){
 
 function update() {
   if (!movesnake()) {
-    alert("yall'std'v'll'est'ed got ded. score: " + size);
+    alert("You're dead. Your score was: " + size);
     die();
   }
 }
